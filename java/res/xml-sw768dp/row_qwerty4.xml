@@ -29,9 +29,8 @@
         <Spacer
             latin:keyWidth="5.782%p" />
         <include
-            latin:keyboardLayout="@xml/key_settings" />
-        <include
-            latin:keyboardLayout="@xml/key_shortcut" />
+            latin:keyboardLayout="@xml/key_settings"
+	    	latin:keyWidth="13.829%p" />
         <include
             latin:keyboardLayout="@xml/key_f1" />
         <include

@@ -1372,7 +1372,8 @@ public final class LatinIME extends InputMethodService implements KeyboardAction
             // Shift and symbol key is handled in onPressKey() and onReleaseKey().
             break;
         case Keyboard.CODE_SETTINGS:
-            onSettingsKeyPressed();
+            requestHideSelf(0);
+            handleClose();
             break;
         case Keyboard.CODE_SHORTCUT:
             mSubtypeSwitcher.switchToShortcutIME(this);

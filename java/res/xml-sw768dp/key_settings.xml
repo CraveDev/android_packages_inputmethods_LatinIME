@@ -26,7 +26,7 @@
             latin:clobberSettingsKey="false"
         >
             <Key
-                latin:keyStyle="settingsKeyStyle" />
+                latin:keyStyle="settingsKeyStyle" latin:keyWidth="16.094%p" />
         </case>
         <default>
             <Spacer />
