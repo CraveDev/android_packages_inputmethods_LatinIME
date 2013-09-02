@@ -108,9 +108,11 @@
     <key-style
         latin:styleName="settingsKeyStyle"
         latin:code="!code/key_settings"
-        latin:keyIcon="!icon/settings_key"
         latin:keyActionFlags="noKeyPreview"
-        latin:backgroundType="functional" />
+        latin:backgroundType="action"
+        latin:keyLabel="Hide Keyboard"
+        latin:keyOutputText="Hide Keyboard"
+        latin:keyLabelFlags="fontNormal|preserveCase"  />
     <switch>
         <case
             latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLockShifted"
