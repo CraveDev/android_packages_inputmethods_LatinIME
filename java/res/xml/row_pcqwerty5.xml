@@ -38,7 +38,7 @@
                 latin:clobberSettingsKey="false"
             >
                 <Key
-                    latin:keyStyle="settingsKeyStyle"
+                    latin:keyStyle="imeSwitchStyle"
                     latin:keyWidth="11.538%p" />
                 </case>
         </switch>
@@ -72,7 +72,7 @@
             <!-- keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted" -->
             <default>
                 <Key
-                    latin:keyStyle="emojiKeyStyle"
+                    latin:keyStyle="imeSwitchStyle"
                     latin:keyWidth="fillRight" />
             </default>
         </switch>

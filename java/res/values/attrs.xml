@@ -227,6 +227,7 @@
         <attr name="iconZwjKey" format="reference" />
         <attr name="iconImeKey" format="reference" />
         <attr name="iconEmojiKey" format="reference" />
+        <attr name="iconImeSwitchKey" format="reference" />
     </declare-styleable>
 
     <declare-styleable name="Keyboard_GridRows">

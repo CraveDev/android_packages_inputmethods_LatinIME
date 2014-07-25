@@ -121,6 +121,12 @@
         latin:keyIcon="!icon/emoji_key"
         latin:keyActionFlags="noKeyPreview"
         latin:backgroundType="functional" />
+    <key-style
+        latin:styleName="imeSwitchStyle"
+        latin:code="!code/key_ime_switch"
+        latin:keyIcon="!icon/ime_switcher"
+        latin:keyActionFlags="noKeyPreview"
+        latin:backgroundType="action" />
     <!-- Overriding EnterKeyStyle here -->
     <switch>
         <!-- Shift + Enter in textMultiLine field. -->

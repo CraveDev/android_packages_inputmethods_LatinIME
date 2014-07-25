@@ -43,7 +43,7 @@
             latin:clobberSettingsKey="false"
         >
             <Key
-                latin:keyStyle="settingsKeyStyle" />
+                latin:keyStyle="imeSwitchStyle" />
         </case>
         <!-- shortcutKeyEnabled="false" clobberSettingsKey="true" -->
         <default>
